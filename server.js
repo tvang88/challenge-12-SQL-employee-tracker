@@ -30,7 +30,7 @@ function startScreen (){
         choices: [
             "Add department",
             "Add role",
-            "View departments",
+            "View departments",+
             "View roles",
             "View employees",
             "Update employee's role",
@@ -116,6 +116,7 @@ function addRole() {
             startScreen();
         });
     });
+}
 
     //function to add employee
     function addEmployee(){
@@ -197,4 +198,3 @@ function addRole() {
         connection.end();
         process.exit();
     }
-}
