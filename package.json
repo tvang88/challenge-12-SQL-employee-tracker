@@ -10,6 +10,7 @@
     "license": "ISC",
     "dependencies": {
         "console.table": "^0.10.0",
+        "inquirer": "^9.2.16",
         "require": "^2.4.20",
         "sql": "^0.78.0"
     },
