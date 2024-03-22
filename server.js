@@ -10,7 +10,7 @@ const connection = mysql.createConnection({
     //port 3001
     port:3001,
 
-    user: "root",
+    user: "tvang",
 
     password: "1angeLina33$",
     database: "employee_info_db"

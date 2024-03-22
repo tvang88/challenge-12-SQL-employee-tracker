@@ -10,7 +10,8 @@
     "license": "ISC",
     "dependencies": {
         "console.table": "^0.10.0",
-        "require": "^2.4.20"
+        "require": "^2.4.20",
+        "sql": "^0.78.0"
     },
     "repository": {
         "type": "git",

@@ -1,5 +1,5 @@
 # 12 SQL: Employee Tracker
-
+//I wasn't able to finish the complete project yet. Some time my SQL work, and other time it doesn't. Most of the time spent on the project was reviewing past classes, searching youtube, and reading up on teaching aids. 
 ## Your Task
 
 Developers frequently have to create interfaces that allow non-developers to easily view and interact with information stored in databases. These interfaces are called **content management systems (CMS)**. Your assignment this week is to build a command-line application from scratch to manage a company's employee database, using Node.js, Inquirer, and MySQL.
